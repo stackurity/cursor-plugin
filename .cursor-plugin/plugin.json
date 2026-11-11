@@ -1,0 +1,14 @@
+{
+  "name": "stackurity",
+  "version": "1.0.0",
+  "description": "Ask your AI assistant what software runs across your servers, deployed applications, repositories and container images, which components have known vulnerabilities or are end of life, and which upgrades fix them. Sign in to Stackurity Cloud with OAuth.",
+  "author": {
+    "name": "Stackurity",
+    "email": "info@stackurity.ai"
+  },
+  "homepage": "https://stackurity.ai",
+  "repository": "https://github.com/stackurity/cursor-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["security", "vulnerability-management", "sbom", "devops", "end-of-life", "mcp"],
+  "logo": "assets/logo.png"
+}
