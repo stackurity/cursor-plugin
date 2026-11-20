@@ -30,8 +30,8 @@ Self-hosted servers expose the same endpoint at `https://<your server>/mcp`. Add
 
 ## Links
 
-- Website: https://stackurity.ai
-- Docs: https://stackurity.ai/docs/ai-assistants
+- Website: https://stackurity.ai/?ref=cursor-plugin
+- Docs: https://stackurity.ai/docs/ai-assistants?ref=cursor-plugin
 - Source: https://github.com/stackurity/stackurity
 - Support: info@stackurity.ai
 
